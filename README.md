@@ -8,7 +8,7 @@ My name is Will Richards and I am a rising CS Major at Oregon State University
 
 # Learning
  - Currently learning C++ (Should have learned it years ago)
- - Also learning Rust (Rust and C++ sytax and strucutre are very similar which makes this easier)
+ - Also learning Rust (Rust and C++ syntax and strucutre are very similar which makes this easier)
 
 ## Contact
 If you need to get in contact with me that can be done through the email listed on the left.
