@@ -11,8 +11,3 @@ My name is Will Richards and I am a rising CS Major at Oregon State University
 
 ## Contact
 If you need to get in contact with me that can be done through the email listed on the left.
-
-
-
-## GitHub Stats (If interested):
-[![WL-Richards' github stats](https://github-readme-stats.vercel.app/api?username=WL-Richards&show_icons=true&bg_color=20,C7B3CC,268AB2&title_color=ffffff&text_color=fff)
