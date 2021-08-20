@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Will Richards and I am a rising CS Major at Oregon State University 
+My name is Will Richards and I am a CS Major at Oregon State University 
 
 # Compute Knowledge
  - I have extensive experience working with FRC style control systems as well as other robotic systems such as ROS
