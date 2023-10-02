@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Will Richards and I am a CS Major at Oregon State University 
+My name is Will Richards and I am a CS Major at Oregon State University, I also am currently the Lead Firmware Engineer at the Openly Published Environmental Sensing Lab (OPEnS)
 
 # Compute Knowledge
  - I have extensive experience working with FRC style control systems as well as other robotic systems such as ROS
@@ -11,3 +11,6 @@ My name is Will Richards and I am a CS Major at Oregon State University
 
 ## Contact
 If you need to get in contact with me that can be done through the email listed on the left.
+
+## Publications 
+[WeatherChimes: An Open IoT Weather Station and Data Sonification System](https://www.sciencedirect.com/science/article/pii/S2468067223000093)
