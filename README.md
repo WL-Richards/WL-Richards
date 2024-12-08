@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Will Richards and I am a CS Major at Oregon State University <br>
+My name is Will Richards and I am a Senior Undergraduate Computer Science (Systems) Major at Oregon State University <br>
 I am currently the Lead Firmware Engineer at the [Openly Published Environmental Sensing Lab (OPEnS)](https://open-sensing.org/) and a Firmware Engineer at the [Soundbendor Labs](https://soundbendor.org/)
 
 # Compute Knowledge
