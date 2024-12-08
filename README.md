@@ -10,6 +10,6 @@ I am currently the Lead Firmware Engineer at the [Openly Published Environmental
 If you need to contact me, that can be done through the email listed on the left.
 
 ## Publications 
-[Loom: A Modular Open-Source Approach to Rapidly Produce Sensor, Actuator, Datalogger Systems](https://www.mdpi.com/1424-8220/24/11/3466)
-[WeatherChimes: An Open IoT Weather Station and Data Sonification System](https://www.sciencedirect.com/science/article/pii/S2468067223000093)
-[Smart Compost Bin for Measurement of Consumer Food Waste](https://dl.acm.org/doi/abs/10.1145/3686215.3686216)
+[Loom: A Modular Open-Source Approach to Rapidly Produce Sensor, Actuator, Datalogger Systems](https://www.mdpi.com/1424-8220/24/11/3466)<br>
+[WeatherChimes: An Open IoT Weather Station and Data Sonification System](https://www.sciencedirect.com/science/article/pii/S2468067223000093)<br>
+[Smart Compost Bin for Measurement of Consumer Food Waste](https://dl.acm.org/doi/abs/10.1145/3686215.3686216)<br>
