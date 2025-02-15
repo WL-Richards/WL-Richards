@@ -7,7 +7,7 @@ I am currently the Lead Firmware Engineer at the [Openly Published Environmental
  - As well as the general programming languages: C++, C, C#, Python, Java, Arduino-C, Shell, Dart, ROS
 
 ## Contact
-If you need to contact me, that can be done through the email listed on the left.
+Feel free to contact me!
 
 ## Publications 
 [Loom: A Modular Open-Source Approach to Rapidly Produce Sensor, Actuator, Datalogger Systems](https://www.mdpi.com/1424-8220/24/11/3466)<br>
