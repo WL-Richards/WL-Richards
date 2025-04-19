@@ -4,7 +4,8 @@ I am currently the Lead Firmware Engineer at the [Openly Published Environmental
 and thr Lead Developer at Radvok Studios devloping a multiplayer space simulation crew game called [Project Horizon](https://store.steampowered.com/app/3347170/Project_Horizon/)
 # Compute Knowledge
  - I have ~3 years of in-depth microcontroller firmware development.
- - As well as the general programming languages: C++, C, C#, Python, Java, Arduino-C, Shell, Dart, ROS
+ - I am extremely well versed in C, C++ and Python.
+ - And have indepth experience using C#, Java, Arduino-C, Shell, Dart, ROS
 
 ## Contact
 Feel free to contact me!
