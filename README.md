@@ -1,11 +1,10 @@
 ### Hi there 👋
-My name is Will Richards and I am a Senior Undergraduate Computer Science (Systems) Major at Oregon State University <br>
-I am currently the Lead Firmware Engineer at the [Openly Published Environmental Sensing Lab (OPEnS)](https://open-sensing.org/), Firmware Engineer at the [Soundbendor Labs](https://soundbendor.org/)
-and thr Lead Developer at Radvok Studios devloping a multiplayer space simulation crew game called [Project Horizon](https://store.steampowered.com/app/3347170/Project_Horizon/)
+My name is Will Richards, and I am a newly graduated Computer Science (Systems) Major from Oregon State University (Go Beavs!)<br>
+I am currently a Backend developer at [Quantiiv](https://www.quantiiv.com/) and the Lead Developer at Radvok Studios, developing a multiplayer space simulation crew game called [Project Horizon](https://store.steampowered.com/app/3347170/Project_Horizon/) (Please wishlist).
 # Compute Knowledge
- - I have ~3 years of in-depth microcontroller firmware development.
- - I am extremely well versed in C, C++ and Python.
- - And have indepth experience using C#, Java, Arduino-C, Shell, Dart, ROS
+ - I have ~4 years of in-depth microcontroller firmware development.
+ - I am extremely well-versed in C, C++, Python, and the Unreal Engine 5 Development Workflow.
+ - And have in-depth experience using C#, Java, Arduino-C, Shell, Dart, ROS, JS
 
 ## Contact
 Feel free to contact me!
