@@ -1,10 +1,10 @@
 ### Hi there 👋
 My name is Will Richards, and I am a newly graduated Computer Science (Systems) Major from Oregon State University ($${\color{orange}Go} {\color{White}Beavs!}$$) <br>
-I am currently a Lead Backend developer at [Quantiiv](https://www.quantiiv.com/) and a Lead Developer at Radvok Studios, developing a multiplayer space simulation crew game called [Project Horizon](https://store.steampowered.com/app/3347170/Project_Horizon/)  <sub>(Please wishlist). <sub>
+I am currently the Lead Data Engineer at [Quantiiv](https://www.quantiiv.com/) and a Lead Developer at [Radvok Studios](https://www.radvokstudios.com), developing a multiplayer space simulation crew game called [Project Horizon](https://store.steampowered.com/app/3347170/Project_Horizon/)  <sub>(Please wishlist). <sub>
 # Compute Knowledge
  - I have ~4 years of in-depth microcontroller firmware development.
- - I am extremely well-versed in C, C++, Python, and the Unreal Engine 5 Development Workflow.
- - And have in-depth experience using C#, Java, Arduino-C, Shell, Dart, ROS, JS
+ - I am extremely well-versed in C, C++, Python, Java and the Unreal Engine 5 Development Workflow.
+ - And have in-depth experience using C#, Arduino-C, Shell, Dart, ROS, JS/TS
 
 ## Contact
 Feel free to contact me!
